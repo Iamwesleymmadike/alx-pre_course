@@ -1,2 +1,1 @@
-My first readme.md
-for alx
+My first readme
